@@ -12,6 +12,7 @@
         <module>Spring_MongoDB_RESTAPI</module>
         <module>spring-elasticsearch</module>
         <module>spring-datajpa-postgresql</module>
+        <module>spring-rabbitmq</module>
     </modules>
 
 
