@@ -1,0 +1,5 @@
+com\domain\springRabbit\config\RabbitMQConfiguration.class
+com\domain\springRabbit\listener\NotificationListener.class
+com\domain\springRabbit\RabbitApplication.class
+com\domain\springRabbit\producer\NotificationProducer.class
+com\domain\springRabbit\model\Notification.class

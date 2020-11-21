@@ -1,0 +1,5 @@
+C:\Users\kalmeyra\Documents\GitHub\springDemo\spring-rabbitmq\src\main\java\com\domain\springRabbit\listener\NotificationListener.java
+C:\Users\kalmeyra\Documents\GitHub\springDemo\spring-rabbitmq\src\main\java\com\domain\springRabbit\model\Notification.java
+C:\Users\kalmeyra\Documents\GitHub\springDemo\spring-rabbitmq\src\main\java\com\domain\springRabbit\config\RabbitMQConfiguration.java
+C:\Users\kalmeyra\Documents\GitHub\springDemo\spring-rabbitmq\src\main\java\com\domain\springRabbit\producer\NotificationProducer.java
+C:\Users\kalmeyra\Documents\GitHub\springDemo\spring-rabbitmq\src\main\java\com\domain\springRabbit\RabbitApplication.java

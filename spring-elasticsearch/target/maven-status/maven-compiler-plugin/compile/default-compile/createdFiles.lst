@@ -1,0 +1,4 @@
+com\demo\api\PersonController.class
+com\demo\Application.class
+com\demo\repository\PersonRepository.class
+com\demo\entity\Person.class

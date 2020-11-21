@@ -1,0 +1,10 @@
+com\domain\entity\Address$AddressType.class
+com\domain\dto\PersonDto.class
+com\domain\entity\Person.class
+com\domain\contoller\PersonController.class
+com\domain\DataJpaApplication.class
+com\domain\service\implementation\PersonServiceImpl.class
+com\domain\service\PersonService.class
+com\domain\entity\Address.class
+com\domain\repository\AddressRepository.class
+com\domain\repository\PersonRepository.class
