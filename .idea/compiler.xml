@@ -12,6 +12,7 @@
         <module name="spring-datajpa-postgresql" />
         <module name="spring-rabbitmq" />
         <module name="Spring_MongoDB_RESTAPI" />
+        <module name="spring-boot-graphql" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring_MongoDB_RESTAPI" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
+      <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-datajpa-postgresql" options="-parameters" />
       <module name="spring-rabbitmq" options="-parameters" />
     </option>
