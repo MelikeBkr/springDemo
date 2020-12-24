@@ -1,10 +1,9 @@
-package com.domain.dto;
+package com.domain.graphql.dto;
 
 import lombok.Data;
 
 @Data
-public class VehicleDto
-{
+public class VehicleDto {
     private String type;
     private String modelCode;
     private String brandName;

@@ -1,7 +1,6 @@
 package com.domain.contoller;
 
 import com.domain.dto.PersonDto;
-import com.domain.entity.Person;
 import com.domain.service.PersonService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

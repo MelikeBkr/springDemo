@@ -1,4 +1,4 @@
-package com.domain.entity;
+package com.domain.graphql.entity;
 
 import lombok.*;
 

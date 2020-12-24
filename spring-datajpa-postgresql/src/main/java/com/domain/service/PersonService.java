@@ -1,7 +1,7 @@
 package com.domain.service;
 
 import com.domain.dto.PersonDto;
-import com.domain.entity.Person;
+import com.domain.graphql.entity.Person;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
